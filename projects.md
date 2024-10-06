@@ -58,6 +58,7 @@ ___
 
 > [!TIP] 
 There are a couple of different ways you can approach this. One method would be to use random.choice()
+
 ```
 import random
 list = ["Cat" , "Dog" , "Fish"]
