@@ -1,4 +1,7 @@
 ### Year 12 Resources for Computer Science
 
-> [!WARNING] This material is designed for students at KESH Academy in my year 12 class
- 
+> [!NOTE]
+> This material is designed for students at KESH Academy in my year 12 class
+
+## For programming practice during free lessons check out projects.md
+
