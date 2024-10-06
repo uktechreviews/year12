@@ -1,5 +1,9 @@
 # Example coding activities
 
+> [!TIP]
+
+Use these examples when you have a free lesson or want to practice programming
+
 ### Activity 1 Random number code breaker
 
 - [ ] Ask the user to enter a random three digit number from 111 to 999
@@ -12,11 +16,6 @@
 **Super stretch**
 - [ ] Append the random number to a list and if it has already been checked. Don't try it again
 
-
-
-[!NOTE]
- 
-Use these examples when you have a free lesson or want to practice programming
 ___
 
 ### Activity 2 Bingo grid
