@@ -1,6 +1,8 @@
 # Example coding activities
 ## Use these examples when you have a free lesson or want to practice programming
 
+You can copy the test for question by using the copy box in the right hand side of the window
+
 ### Randon number code breaker
 
 ``` 
@@ -14,5 +16,6 @@ Count how many times the random number was generated before it cracked it
 
 Super stretch
 
-Append the random number to a list and if it has already been checked don't try it again
+Append the random number to a list and if it has already been checked. 
+Don't try it again
 ```
