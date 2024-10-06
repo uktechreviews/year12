@@ -21,13 +21,13 @@ Don't try it again
 ### Activity 2 Bingo grid
 
 ``` 
--[ ] Create a 2d array of 4 columns and 2 rows
--[ ] Populate the array with random numbers from 1 to 99
--[ ] Display the grid
--[ ] Generate a random number between 1 and 99. Tell the user
+- [ ] Create a 2d array of 4 columns and 2 rows
+- [ ] Populate the array with random numbers from 1 to 99
+- [ ] Display the grid
+- [ ] Generate a random number between 1 and 99. Tell the user
 what number is being called.
--[ ] Check to see if the number is on the grid. If it is 
+- [ ] Check to see if the number is on the grid. If it is 
 replace it with a 'X'
--[ ] Once all 8 numbers have been matched display 'Bingo' and 
+- [ ] Once all 8 numbers have been matched display 'Bingo' and 
 end the game
 ```
