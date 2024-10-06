@@ -28,3 +28,19 @@ what number is being called.
 replace it with a 'X'
 - [ ] Once all 8 numbers have been matched display 'Bingo' and 
 end the game 
+
+___
+
+### Activity 3 username 
+
+- [ ] Ask for the user's first name
+- [ ] Ask for the user's second name
+- [ ] Ask for the user's year of birth (4 digits eg 1975)
+- [ ] Generate a username based on the last two digits of the year of birth, the first two letters from their first name and the first three letters of the surname.
+
+> [!HINT]
+You can extact a range of lettes from a string using
+```
+string = "Elephant"
+string = string[0:3] # This will only keep the index values 0, 1, 2
+```
