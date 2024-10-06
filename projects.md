@@ -47,3 +47,19 @@ string = string[0:3] # This will only keep the index value 0,1,2
 You also might find some of these [String handling methods](https://www.w3schools.com/python/python_ref_string.asp) useful.
 
 ___
+
+### Activity 4 Random word generators
+
+- [ ] Create three lists, each containing 20 random words
+- [ ] Generate three random words, one from each list
+- [ ] Create a new word by concatinating the three random words, one from each list
+
+> [!TIP] There are a couple of different ways you can approach this. One method would be to use random.choice()
+```
+import random
+list = ["Cat" , "Dog" , "Fish"]
+word =random.choice(list)
+```
+___
+
+
