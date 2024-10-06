@@ -39,8 +39,8 @@ ___
 - [ ] Generate a username based on the last two digits of the year of birth, the first two letters from their first name and the first three letters of the surname.
 
 > [!TIP]
-You can extact a range of lettes from a string using
+You can extract a range of letters from a string using
 ```
 string = "Elephant"
-string = string[0:3] # This will only keep the index values 0, 1, 2
+string = string[0:3] # This will only keep the index value 0,1,2
 ```
