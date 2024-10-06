@@ -38,6 +38,7 @@ ___
 - [ ] Ask for the user's year of birth (4 digits eg 1975)
 - [ ] Generate a username based on the last two digits of the year of birth, the first two letters from their first name and the first three letters of the surname.
 
+
 > [!TIP]
 You can extract a range of letters from a string using
 
