@@ -13,8 +13,8 @@
 - [ ] Append the random number to a list and if it has already been checked. Don't try it again
 
 
-[!NOTE] 
 
+[!NOTE] 
 Use these examples when you have a free lesson or want to practice programming
 ___
 
