@@ -44,3 +44,6 @@ You can extract a range of letters from a string using
 string = "Elephant"
 string = string[0:3] # This will only keep the index value 0,1,2
 ```
+You also might find some of these [String handling methods](https://www.w3schools.com/python/python_ref_string.asp) useful.
+
+___
