@@ -14,6 +14,7 @@
 **Super stretch**
 - [ ] Append the random number to a list and if it has already been checked. Don't try it again
 
+___
 
 ### Activity 2 Bingo grid
 
