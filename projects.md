@@ -56,7 +56,8 @@ ___
 - [ ] Generate three random words, one from each list
 - [ ] Create a new word by concatinating the three random words, one from each list
 
-> [!TIP] There are a couple of different ways you can approach this. One method would be to use random.choice()
+> [!TIP] 
+There are a couple of different ways you can approach this. One method would be to use random.choice()
 ```
 import random
 list = ["Cat" , "Dog" , "Fish"]
