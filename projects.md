@@ -1,5 +1,5 @@
 # Example coding activities
-## From Mr Organs
+## From Mr Organ
 
 > [!TIP]
 Use these examples when you have a free lesson or want to practice programming
