@@ -40,6 +40,7 @@ ___
 
 > [!TIP]
 You can extract a range of letters from a string using
+
 ```
 string = "Elephant"
 string = string[0:3] # This will only keep the index value 0,1,2
