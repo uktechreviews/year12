@@ -3,19 +3,31 @@
 
 You can copy the test for question by using the copy box in the right hand side of the window
 
-### Randon number code breaker
+### Activity 1 Random number code breaker
 
 ``` 
 Ask the user to enter a random three digit number from 111 to 999
-Geneate randon numbers in the range 111 to 999 and check to see if it matches
+Generate randon numbers in the range 111 to 999 and check to see if it matches
 Print out the final code number
 
-Stretch
-
+**Stretch**
 Count how many times the random number was generated before it cracked it
 
-Super stretch
-
+**Super stretch**
 Append the random number to a list and if it has already been checked. 
 Don't try it again
+```
+
+### Activity 2 Bingo grid
+
+``` 
+-[ ] Create a 2d array of 4 columns and 2 rows
+-[ ] Populate the array with random numbers from 1 to 99
+-[ ] Display the grid
+-[ ] Generate a random number between 1 and 99. Tell the user
+what number is being called.
+-[ ] Check to see if the number is on the grid. If it is 
+replace it with a 'X'
+-[ ] Once all 8 numbers have been matched display 'Bingo' and 
+end the game
 ```
