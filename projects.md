@@ -4,15 +4,15 @@
 
 ### Activity 1 Random number code breaker
 
--[ ] Ask the user to enter a random three digit number from 111 to 999
--[ ] Generate randon numbers in the range 111 to 999 and check to see if it matches
--[ ] Print out the final code number
+- [ ] Ask the user to enter a random three digit number from 111 to 999
+- [ ] Generate randon numbers in the range 111 to 999 and check to see if it matches
+- [ ] Print out the final code number
 
 **Stretch**
--[ ] Count how many times the random number was generated before it cracked it
+- [ ] Count how many times the random number was generated before it cracked it
 
 **Super stretch**
--[ ] Append the random number to a list and if it has already been checked. Don't try it again
+- [ ] Append the random number to a list and if it has already been checked. Don't try it again
 
 
 ### Activity 2 Bingo grid
