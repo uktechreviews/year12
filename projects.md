@@ -1,7 +1,6 @@
 # Example coding activities
 
 > [!TIP]
-
 Use these examples when you have a free lesson or want to practice programming
 
 ### Activity 1 Random number code breaker
