@@ -85,7 +85,8 @@ ___
 You will need to have a sorted list before you can do a binary search
 
 - [ ]   Create a list of 10 numbers (in numberical order)
-``` list = [1, 5, 27, 89, 125, 256, 257, 300, 310, 320]
+``` 
+list = [1, 5, 27, 89, 125, 256, 257, 300, 310, 320]
 ```
 - [ ]    Pick a random number from the list
 - [ ]    Carry out a binary search
