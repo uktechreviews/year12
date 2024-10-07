@@ -1,4 +1,4 @@
-# Example coding activities
+# Example coding activities (page 1)
 ## From Mr Organ
 
 > [!TIP]
