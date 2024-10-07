@@ -12,3 +12,15 @@ I will be adding useful links to this page to suppliment the work we are doing i
 [String handling methods](https://www.w3schools.com/python/python_ref_string.asp)
 
 [The Python Random module](https://www.w3schools.com/python/module_random.asp)
+
+___
+
+## C#
+
+
+___
+
+## C++
+
+[Overview of C++](https://www.w3schools.com/cpp/default.asp)
+
