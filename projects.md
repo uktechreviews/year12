@@ -67,4 +67,14 @@ word =random.choice(list)
 ```
 ___
 
+### Activity 5 Key word jumble
 
+- [ ] Ask the user for a word of more than 5 letters
+- [ ] Check the length of the word
+- [ ] Take each letter of the word and add it to a list
+- [ ] Pick a randon number in the range 0, length of word
+- [ ] If the letter is a vowel replace with a * otherwise replace with a £
+- [ ] Repeat until all the letters are replaced
+- [ ] If the same letter is picked more than once replace with a %
+
+___
