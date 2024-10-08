@@ -1,19 +1,14 @@
-flag = False
+# value = int(input("Enter a number "))
 
-value = int(input("Enter a number "))
+for n in range (111111,99999999999):
+    flag = False
+    for i in range (2,n):
+        #print (f"checking {i}")
+        if n % i == 0:
+            flag = True
+            break
 
-for i in range (2,value):
-    print (f"checking {i}")
-    if value % i == 0:
-        flag = True
-        break
-
-print (i)
-
-if flag == True:
-    print (f" {value} is not a prime - it can be divided by {i}")
-    print (f" {value} divided by {i} is {(value/i)}")
-else:
-    print (f" {value} is a prime")
+    if flag!=True:
+        print (f" {n} is a prime")
 
 
