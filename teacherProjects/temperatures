@@ -1,0 +1,18 @@
+## Example 1
+
+
+temp = 0
+totalTemp = 0
+numberOfEntries = 0
+
+while temp != -100:
+    temp = int(input("Enter the temperature value"))
+    totalTemp = totalTemp + temp
+    numberOfEntries = numberOfEntries + 1
+    print(temp)
+
+print (f"Total temperature {totalTemp}")
+print (f"Number of entries {numberOfEntries}")
+average = totalTemp / numberOfEntries
+print (average)
+
