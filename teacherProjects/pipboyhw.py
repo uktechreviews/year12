@@ -116,7 +116,7 @@ def loadingAnimation(State):
 
 def getWeather():
     try:
-        url = "http://api.weatherapi.com/v1/current.json?key=4f05a846856c482cb5d164806242710&q=SOLIHULL"
+        url = "http://api.weatherapi.com"
         r = urequests.get(url,timeout=1).json()
         print (r)
         clearWeather()
