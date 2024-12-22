@@ -1,3 +1,5 @@
+# A simple project quiz for revision tasks
+
 print ("My Quiz")
 score = 0
 
