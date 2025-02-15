@@ -2,15 +2,22 @@ def hashWord(word):
     value = 0
     for letter in word:
         value = value + (ord(letter))
-        hash = value % maxRecords
+        hash = value % wordCount
     return hash
 
-maxRecords = 11
-records = ["","","","","","","","","",""]
 
-sentence = "Hello my name is spencer"
+
+sentence = "Hello my name is Spencer Organ"
 count = 0
 words = sentence.split()
+wordCount = len(words)
+
+print (f"Word Count: {wordCount}")
+records = []
+
+for record in range(0,wordCount):
+    records.append("")
+print (records)
 
 for word in words:
     value = hashWord(word)
